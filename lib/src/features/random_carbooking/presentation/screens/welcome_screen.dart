@@ -30,7 +30,7 @@ class _CarBookingWelcomeScreen extends State<CarBookingWelcomeScreen>{
               fontSize: 40
               ),
             ),
-            SizedBox(height: 250,),
+            SizedBox( height: 250,),
 
             
             Image.asset(ImgAssets.pic),
